@@ -4,6 +4,4 @@ def square_array(array)
   list.each do |x|
     x + 1
   end
-  
-  list
-end
+  end
